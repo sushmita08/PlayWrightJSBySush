@@ -1,0 +1,14 @@
+{
+    "username":"admin@email.com",
+    "password":"admin@123",
+    "loginUrl": "https://freelance-learn-automation.vercel.app/login",
+    "name":"sushmita",
+    "interest":["Cypress","Java"],
+    "gender":"Female",
+    "address":{
+        "room":65,
+        "area":"Nahur",
+        "pincode":"400054",
+        "city":"mumbai"
+    }
+}
